@@ -1,5 +1,7 @@
-
 Hellow World
 
 MyNote-5.md
-666666666666666666666
+
+<img src="(FilesShare)20240905_AIGC_SD_MyLora_DozhaiGirl_00352.jpg">
+
+
