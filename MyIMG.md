@@ -8,9 +8,16 @@
 
 IMG\2014_0629_0719_update_share.jpg
 
+
+\<img src="IMG\2014_0629_0719_update_share.jpg" width="300"\>
+
 <img src="IMG\2014_0629_0719_update_share.jpg" width="300">
 
+---
+
 IMG/2014_0629_0719_update_share.jpg
+
+\<img src="IMG/2014_0629_0719_update_share.jpg" width="300"\>
 
 <img src="IMG/2014_0629_0719_update_share.jpg" width="300">
 
